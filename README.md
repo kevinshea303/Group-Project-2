@@ -1,6 +1,13 @@
 # Group-Project-2
 ---
+## GROUP 1 PROJECT 2 TEAM MEMBERS
+ Project 2 presented on April 10, 2025 by Group 1 Team Members
 
+ *Michael Hnidash*  
+ *Alexander Lin*  
+ *Nan Shi*   
+ *Kevin Rivera*  
+ *Sofia Frrokaj*  
 
 ### **Project Overview**
 
@@ -173,4 +180,8 @@ This project involves the analysis and modeling of a dataset (`data.csv`) to pre
    - Feature importance was analyzed using the Random Forest model, and selected features were used to train a new model.
 
 ---
+
+## References 
+[1]: <https://archive.ics.uci.edu/dataset/320/student+performance> "Website"<br></br>
+
 

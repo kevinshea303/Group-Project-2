@@ -127,8 +127,8 @@ This project involves the analysis and modeling of a dataset (`data.csv`) to pre
 ### **Comparison of Models**
 
 - **Accuracy**:
-  - Random Forest: [Value]
-  - Logistic Regression: [Value]
+  - Random Forest: [0.887]
+  - Logistic Regression: [0.886]
 
 - **Strengths**:
   - Random Forest demonstrated higher flexibility and better handling of complex relationships in the data.
